@@ -3,10 +3,10 @@
   A passionate developer and tech
   enthusiast on a journey to create, learn
   and collaborate.
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Develop
+- 📫 You can contact me on 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
