@@ -1,14 +1,12 @@
-- Hi there, I’m Nxcromxncer👋
-  Welcome to my GitHub profile!
-  A passionate developer and tech
-  enthusiast on a journey to create, learn
-  and collaborate.
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Develop
-- 📫 You can contact me on 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+"Raising dead code, bending the shadows of cyberspace. What’s broken shall rise… under my command."
+
+💻 Specialty: Penetration Testing, Reverse Engineering, Code Resurrection
+🕵️‍♂️ Strengths: Exploiting vulnerabilities, cryptography, social engineering
+🌑 Signature: Dark code trails, hidden backdoors, and encrypted chaos
+⚔️ Motto: "If it's dead, I'll revive it. If it's alive, I'll control it."
+
+🕸️ Skills:
+🔮 Black Hat Tactics | 🧿 Cryptography | 🖤 Network Intrusion | ⚡ Code Injection | 🌑 Stealth Exploitation
 
 <!---
 Nxcromxncer/Nxcromxncer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
