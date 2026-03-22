@@ -1,14 +1,91 @@
-"Raising dead code, bending the shadows of cyberspace. What’s broken shall rise… under my command."
+# 👨‍💻 Nxcromxncer
 
-💻 Specialty: Penetration Testing, Reverse Engineering, Code Resurrection
-🕵️‍♂️ Strengths: Exploiting vulnerabilities, cryptography, social engineering
-🌑 Signature: Dark code trails, hidden backdoors, and encrypted chaos
-⚔️ Motto: "If it's dead, I'll revive it. If it's alive, I'll control it."
+> Full Stack Developer • AI Automation Builder • Problem Solver
 
-🕸️ Skills:
-🔮 Black Hat Tactics | 🧿 Cryptography | 🖤 Network Intrusion | ⚡ Code Injection | 🌑 Stealth Exploitation
+---
 
-<!---
-Nxcromxncer/Nxcromxncer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+Hi, I'm **Nxcromxncer** — a developer passionate about building intelligent systems, modern web applications, and automation tools powered by AI.
+
+I focus on combining **software engineering** with **artificial intelligence** to create scalable, efficient, and meaningful digital experiences.
+
+- ⚙️ Full Stack Web Development
+- 🤖 AI & Automation Systems
+- 🧠 Machine Learning & NLP
+- 🔐 Cybersecurity Enthusiast
+- 🎯 Continuous Learner
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Frontend
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+
+### ⚙️ Backend
+- Python
+- Node.js
+- FastAPI
+- REST APIs
+- Express.js
+
+### 🤖 AI / ML
+- Machine Learning
+- NLP
+- LLM Integration
+- AI Automation
+- Prompt Engineering
+
+### 🗄️ Database
+- MySQL
+- SQLite
+- MongoDB (Basics)
+
+### 🛠️ Tools & Technologies
+- Git & GitHub
+- Linux
+- API Integration
+- Automation Scripts
+- Docker (Learning)
+
+---
+
+## 🧩 Projects Focus
+
+- AI Assistants & Automation Systems  
+- Adaptive Learning Platforms  
+- Coding Competition Platforms  
+- Intelligent Web Applications  
+- Experimental AI Interfaces
+
+---
+
+## 📈 Current Goals
+
+- Build advanced AI-powered applications
+- Improve system design & scalability
+- Explore cybersecurity + AI intersection
+- Create impactful open-source projects
+
+---
+
+## 🌌 Philosophy
+
+> "Code is not just logic — it's intelligence shaped into reality."
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/Nxcromxncer
+
+---
+
+⭐ *Always building. Always learning.*
