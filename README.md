@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nxcromxncer&label=Profile+views&color=1f6feb&style=flat-square" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nehal Verma&label=Profile+views&color=1f6feb&style=flat-square" alt="GitHub profile views" />
 </p>
 
 # Systems developer · Deep learning · Full-stack
