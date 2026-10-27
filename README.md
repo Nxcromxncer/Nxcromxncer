@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=185&section=header&text=Nxcromxncer&fontSize=46&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Systems%20%C2%B7%20Deep%20Learning%20%C2%B7%20Full-stack&descAlignY=58&descSize=17" alt="Nxcromxncer — Systems developer, deep learning and full-stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=185&section=header&text=Nehal Verma&fontSize=46&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Systems%20%C2%B7%20Deep%20Learning%20%C2%B7%20Full-stack&descAlignY=58&descSize=17" alt="Nxcromxncer — Systems developer, deep learning and full-stack" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nehal Verma&label=Profile+views&color=1f6feb&style=flat-square" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nxcromxncer&label=Profile+views&color=1f6feb&style=flat-square" alt="GitHub profile views" />
 </p>
 
 # Systems developer · Deep learning · Full-stack
